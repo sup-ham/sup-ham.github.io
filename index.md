@@ -1,0 +1,3 @@
+# supalpuket.github.io
+
+<script>window.location.href = 'https://about.me/yusuphm'</script>
